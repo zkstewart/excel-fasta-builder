@@ -7,7 +7,6 @@ This script was designed to assist anyone attempting to parse the information in
 This script works by reading in two text files with corresponding transcript IDs and nucleotide/protein sequences. For example, that means text_file_1.txt may look like this after you copy-paste a column into a text file:
 
 TR84742|c4_g1_i2
-
 TR85979|c5_g1_i1
 
 TR87067|c2_g2_i2
