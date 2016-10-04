@@ -21,7 +21,7 @@ DGLKGNYGMLDQVHALKWVQNNIKSFGGDPEDVTIFGESAGGASVGFLVLSPLAKGLFHKAILQSGDPDAVWAYRNYEEA
 MSLLFIQCFNMLPSMFLTLILLLNFALREAKVVKYAPEVTLKSGKIRGLLSDLSTGGTVRKYLGVPFAKAERFQVPTDPDSWTGVKDMFTIGKICPQQPHN
 YAEVPLKRSENKPFQVVFEYAAGDNSEGWAHIGNIQMFNCSFETRPFKAKPNLDDVKVRLRGGKSNMEGRAEVFADGSWGTFQGRWQWYPRSATVICRQLKFGGAVRVHHGSYFGKSTVNGPVWGTRTHIYPTCKSNETNIGRCLHKSSMRMVDSNHVDVGVECFDARLVGGNSPNEGRVEINYKGKWG
 ```
-Because each entry is placed on a new line, this script can simply join each line together in a fasta format.
+Because each entry is placed on a new line, this script can simply join each line together in a fasta format. Make sure this script file is in the same directory as the two text files.
 
 # Usage
 Download and install Python versions 3.4 or 3.5 from https://www.python.org/. Following the prompts of the script, supply the names of two text files with contents formatted as exampled above and an output file with the name you specify will be generated.
